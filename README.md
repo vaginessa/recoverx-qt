@@ -1,5 +1,3 @@
-#RecoverX
-
 ###Synopsis
 Universal android recovery installer written on my spare time :)
 
