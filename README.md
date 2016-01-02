@@ -1,5 +1,6 @@
 ##Synopsis
-Universal android recovery installer written on my spare time :)
+
+**RecoverX** is an universal android recovery installer written on my spare time :)
 
 ##Some Handy Links
 
